@@ -71,7 +71,10 @@ p
 {
 	color: #FF9900 !important;
 }
-
+header.header
+{
+	padding: 30px 0px 80px 0px !important;
+}
 body .content section
 {
 	padding: 80px 0;
@@ -276,10 +279,6 @@ ul.navbar-nav
 }
 
 /*** HEADER ***/
-header.header
-{
-	padding: 30px 0px 80px 0px;
-}
 
 header .header-content h1
 {
