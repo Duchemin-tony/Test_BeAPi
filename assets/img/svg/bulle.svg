@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Oval Copy 2</title>
+    <defs>
+        <path d="M222.5,70 C224.985281,70 227,67.9852814 227,65.5 C227,63.0147186 224.985281,61 222.5,61 C220.014719,61 218,63.0147186 218,65.5 C218,68.6819805 219.318019,70 222.5,70 Z" id="path-1"></path>
+        <filter x="-261.1%" y="-238.9%" width="622.2%" height="622.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0901960784   0 0 0 0 0.22745098   0 0 0 0 0.337254902  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-Productly" transform="translate(-353.000000, -3975.000000)">
+            <g id="07-Need-a-super-hero?" transform="translate(-230.000000, 3463.000000)">
+                <g id="Avator" transform="translate(355.000000, 116.000000)">
+                    <g id="Oval-Copy-2" transform="translate(24.000000, 347.000000)">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

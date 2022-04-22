@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="467px" height="438px" viewBox="0 0 467 438" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Oval</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-Productly" transform="translate(-719.000000, -157.000000)" fill="#FFE5D2">
+            <g id="02-Header" transform="translate(145.000000, 128.000000)">
+                <g id="Image" transform="translate(521.000000, 0.000000)">
+                    <path d="M242.647821,465.954057 C365.90648,453.421335 467.927429,363.112695 512.630176,248 C557.332923,132.887305 389.026336,34.8284001 267.802427,29.210408 C146.578518,23.5924159 53,131.29674 53,253.973714 C53,376.650688 119.389161,478.48678 242.647821,465.954057 Z" id="Oval" transform="translate(286.500000, 248.000000) scale(-1, 1) translate(-286.500000, -248.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
